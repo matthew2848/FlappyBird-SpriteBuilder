@@ -23,5 +23,5 @@ CCPhysicsNode* physicsNode;
 -(void) initialize;
 -(void) addObstacle;
 -(void) showScore;
-
+float timeSinceObstacle;
 @end
